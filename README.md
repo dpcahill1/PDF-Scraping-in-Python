@@ -1,2 +1,2 @@
 # PDF-Scraping-in-Python
-Career project for my job.
+After being tasked with a project to streamline data collection from PDF appraisals, I worked to create standardized Python code files, one for residential appraisals and one for commercial appraisals, to make collecting the necessary data points needed to fill out our bank form easier. I utilized packages in Python like "pdfplumber" and "pandas" to extract the text and data from PDFs and export that into CSV files.
